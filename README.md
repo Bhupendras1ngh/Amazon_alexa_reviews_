@@ -1,0 +1,1 @@
+In this we have to make an algorithm which put review stars based on your review comment flavour , in which i used two algorith Naive_bayes  and XGbooost  and got higgest accuracy with XGboost algorithm 
